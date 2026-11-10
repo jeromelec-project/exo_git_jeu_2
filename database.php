@@ -18,3 +18,4 @@ try {
 
 ?>
 <p><?php echo $pdo->getAttribute(PDO::ATTR_SERVER_VERSION); ?>
+<p>bla</p>
