@@ -15,7 +15,7 @@ try {
 } catch (PDOException $e) {
     die ("Erreur de connexion : " .$e->getMessage());
 }
-
+qùslfj
 ?>
 <p><?php echo $pdo->getAttribute(PDO::ATTR_SERVER_VERSION); ?>
 <p>bla</p>
